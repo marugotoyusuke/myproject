@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello,World!\n");
+    printf("kottideshita:/\n");
     
     return 0;
 }
