@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("baitoshitaidesu.iibaitosakihashirimasenka?\n");
+    
+    return 0;
+}
